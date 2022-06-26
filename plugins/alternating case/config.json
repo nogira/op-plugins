@@ -1,0 +1,7 @@
+{
+    "actionName": "alternating case",
+    "inputType": "selection",
+    "iconFile": "icon.png",
+    "scriptEnvironment": ".nvm/versions/node/v18.2.0/bin/node",
+    "scriptFile": "main.js"
+}

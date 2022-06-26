@@ -1,0 +1,7 @@
+{
+    "actionName": "scihub",
+    "inputType": "selection",
+    "iconFile": "icon.png",
+    "regexMatch": "10\\.\\S*",
+    "searchURL": "https://sci-hub.se/{text}"
+}
